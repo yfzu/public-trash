@@ -20,6 +20,8 @@ Retrofit+okhttp
 
 更多介绍可以小红书搜索ID：NCDDLHWYSXB，查看APP开发合集。
 
+wechat：seicailewodeyiba
+
 ![IMG_5075](https://github.com/user-attachments/assets/8db7f38a-c2a8-4d9f-bc9a-cb1fc6a4d45a)
 ![IMG_5076](https://github.com/user-attachments/assets/ab3d7771-7d3d-455b-8fd7-d7153f0120ad)
 ![IMG_5077](https://github.com/user-attachments/assets/540c024d-442b-44bb-9e6c-d71c62a318b1)
