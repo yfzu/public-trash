@@ -16,6 +16,12 @@ Android APP 垃圾分类识别
 ![IMG_5075](https://github.com/user-attachments/assets/8db7f38a-c2a8-4d9f-bc9a-cb1fc6a4d45a)
 ![IMG_5076](https://github.com/user-attachments/assets/ab3d7771-7d3d-455b-8fd7-d7153f0120ad)
 ![IMG_5077](https://github.com/user-attachments/assets/540c024d-442b-44bb-9e6c-d71c62a318b1)
-![IMG_5083](https://github.com/user-attachments/assets/1101e8e7-08a0-4f41-9374-bdfbeb577d0b)
+![IMG_5078](https://github.com/user-attachments/assets/90c29c75-42bf-4a19-8a6d-27ce4db864b6)
+![IMG_5080](https://github.com/user-attachments/assets/4e79b225-219a-41d7-b4b9-414d00166922)
+![IMG_5079](https://github.com/user-attachments/assets/7a5d84ff-7d16-4903-8d19-f44f853779f5)
+![IMG_5081](https://github.com/user-attachments/assets/a70b9047-2690-4f86-8e82-bacda3bbded3)
+![IMG_5082](https://github.com/user-attachments/assets/8ed3e265-2d20-4f6c-8e0f-bcf78da42229)
+![IMG_5083](https://github.com/user-attachments/assets/ae8cc2b4-11d2-4ed5-93fe-949d0c6b6866)
+
 
 
