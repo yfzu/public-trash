@@ -1,5 +1,12 @@
 # public-trash
 Android APP 垃圾分类识别
+Kotlin+JetPack Compose+Material Design3
+
+MVVM
+
+Room
+
+Retrofit+okhttp
 
 1.注册登录功能
 
