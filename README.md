@@ -12,3 +12,6 @@ Android APP 垃圾分类识别
 5.可以更改头像，修改密码等
 
 更多介绍可以小红书搜索ID：NCDDLHWYSXB，查看APP开发合集。
+
+![IMG_5075](https://github.com/user-attachments/assets/8db7f38a-c2a8-4d9f-bc9a-cb1fc6a4d45a)
+
